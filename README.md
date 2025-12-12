@@ -1,2 +1,3 @@
 # JavaScript-Fundamentals
-JavaScript practices
+See this for result:
+ https://willsnaketaka.github.io/JavaScript-Fundamentals/
